@@ -1,2 +1,2 @@
 # PeticionHTTP
-FEM miw. Ejemplo conectividad
+FEM miw. Ejemplo conectividad HTTP
