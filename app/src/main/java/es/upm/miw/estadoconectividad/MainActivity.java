@@ -19,8 +19,10 @@ public class MainActivity extends Activity {
 
     static final String LOG_TAG = "MiW";
 
-    static final String URL_RECURSO = "http://www.etsisi.upm.es/robots.txt";
-    //static final String URL_RECURSO = "https://recursosweb.prisaradio.com/podcasts/619p.xml";
+    static final String URL_RECURSO = "http://www.etsisi.upm.es/robots.txt"; // approx 11 secs
+    //static final String URL_RECURSO = "https://recursosweb.prisaradio.com/podcasts/619p.xml"; // approx 14 secs
+    //static final String URL_RECURSO = "http://www.cope.es/api/es/programas/el-partidazo-de-cope/audios/rss.xml"; // approx 140 secs
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
