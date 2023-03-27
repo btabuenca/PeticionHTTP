@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">[MiW] EstadoConectividad</string>
+    <string name="app_name">EstadoConectividad</string>
     <string name="txtHayConex">El dispositivo está conectado</string>
     <string name="txtNoHayConex">El dispositivo NO está conectado a internet.</string>
 </resources>

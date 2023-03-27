@@ -17,10 +17,17 @@ import java.net.URL;
 
 public class MainActivity extends Activity {
 
-    static final String LOG_TAG = "MiW";
+    static final String LOG_TAG = "btb";
 
-    static final String URL_RECURSO = "http://www.etsisi.upm.es/robots.txt"; // approx 11 secs
-    //static final String URL_RECURSO = "https://recursosweb.prisaradio.com/podcasts/619p.xml"; // approx 14 secs
+    // Predict age based on your name
+    //static final String URL_RECURSO = "https://api.agify.io/?name=Bernardo"; // approx 11 secs
+
+    // Predict nationality based on your name
+    //static final String URL_RECURSO = "https://api.nationalize.io/?name=Bernardo"; // approx 11 secs
+
+
+    static final String URL_RECURSO = "https://www.etsisi.upm.es/robots.txt"; // approx 11 secs
+
     //static final String URL_RECURSO = "http://www.cope.es/api/es/programas/el-partidazo-de-cope/audios/rss.xml"; // approx 140 secs
 
 
